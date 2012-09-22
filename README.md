@@ -10,7 +10,7 @@ https://developer.apple.com/resources/http-streaming/ it's awesome for video str
 
 But what is? A simple and awesome thing:
 
-http://en.wikipedia.org/wiki/M3U + Video + Live/seek player behaivor
+http://en.wikipedia.org/wiki/M3U + Video + Live/seek player behaivor ( they called it M3U8 )
 
 So if i don't need video?
 
